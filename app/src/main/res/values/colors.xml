@@ -1,0 +1,5 @@
+<resources>
+    <color name="colorPrimary">#3F51B5</color> <!-- Contoh warna biru -->
+    <color name="colorPrimaryDark">#303F9F</color> <!-- Biru lebih gelap untuk status bar -->
+    <color name="colorAccent">#FF4081</color> <!-- Warna aksen untuk tombol dan elemen interaktif -->
+</resources>
